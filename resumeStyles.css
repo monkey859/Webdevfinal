@@ -1,0 +1,51 @@
+Resume Styles
+body {position: relative
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(150, 122, 122); 
+      
+  } 
+  li{
+    font-size: 14px;
+    font-style: italic;   
+    font-weight: normal;
+  }
+  a{
+    color:brown; 
+    text-decoration: none;}
+  .resumelistheading{
+    font-weight: bolder;
+    font-style: normal;
+  }
+  a:hover{
+    text-decoration: underline;
+    /* font-weight: bold;
+    font-size: 18px; */
+  }
+  a:visited{
+    color:blue
+  }
+  .underline{
+    text-decoration: underline; }
+    .bold{font-weight:bold;}
+    .justify{text-align: justify;}
+
+    .homepg {
+       position:absolute
+           top:0
+           right:200px
+    }
+.container{position:relative
+    
+}
+    .box1{
+        border-width: 1px;
+        border-style: solid;
+        border-color: gray;
+    }
+    .box2{
+        padding: 5px;
+    }
+    .box3{
+        margin: 15px;
+    }
